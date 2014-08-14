@@ -1,0 +1,10 @@
+Package: com.nmcdonald.continueplayingonlock
+Name: ContinuePlayingOnLock
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: This tweak allows you to continue playing your MediaPlayer media even when the device is locked.
+Maintainer: Nicholas McDonald (@nickmcd19)
+Author: Nicholas McDonald (@nickmcd19)
+Section: Tweaks
+Version: 0.0.1-11
+Installed-Size: 32

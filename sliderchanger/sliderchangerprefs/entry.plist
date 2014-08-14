@@ -1,0 +1,10 @@
+{
+    entry = {
+	bundle = SliderChangerPrefs;
+	cell = PSLinkCell;
+	detail = SliderChangerPrefsListController;
+	icon = SliderChangerPrefs.png;
+	isController = 1;
+	label = SliderChangerPrefs;
+    };
+}

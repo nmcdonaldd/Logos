@@ -1,0 +1,10 @@
+Package: com.nmcdonald.sliderchanger
+Name: SliderChanger
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: This tweak changes the usual "slide to unlock" text to my Twitter handle.
+Maintainer: Nicholas McDonald (@nickmcd19)
+Author: Nicholas McDonald (@nickmcd19)
+Section: Tweaks
+Version: 0.0.1-15
+Installed-Size: 32
